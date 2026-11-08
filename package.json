@@ -1,5 +1,5 @@
 {
-    "name": "@flxbl-io/sfprofiles",
+    "name": "@petter-eikeland/sfprofiles",
     "version": "5.2.2",
     "description": "Salesforce Profile management",
     "keywords": [
@@ -8,8 +8,8 @@
         "profiles",
         "permissions"
     ],
-    "author": "flxblio",
-    "homepage": "https://github.com/flxbl-io/sfprofiles",
+    "author": "petter-eikeland",
+    "homepage": "https://github.com/petter-eikeland/sfprofiles",
     "license": "MIT",
     "main": "lib/sfprofiles",
     "types": "lib/sfprofiles",
@@ -22,7 +22,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/flxbl-io/sfprofiles.git"
+        "url": "https://github.com/petter-eikeland/sfprofiles.git"
     },
     "scripts": {
         "build": "npm run clean && npm run compile",
@@ -33,7 +33,7 @@
         "watch": "npx tsc-watch --onSuccess \"npm run build\""
     },
     "bugs": {
-        "url": "https://github.com/flxbl-io/sfp/issues"
+        "url": "https://github.com/petter-eikeland/sfprofiles/issues"
     },
     "devDependencies": {
         "@babel/core": "7.18.2",
