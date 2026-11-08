@@ -8,7 +8,7 @@
         "profiles",
         "permissions"
     ],
-    "author": "flxblio",
+    "author": "petter-eikeland",
     "homepage": "https://github.com/petter-eikeland/sfprofiles",
     "license": "MIT",
     "main": "lib/sfprofiles",
