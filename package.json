@@ -64,7 +64,7 @@
         "@salesforce/core": "8.19.0",
         "@salesforce/source-deploy-retrieve": "12.21.5",
         "async-retry": "^1.3.3",
-        "better-sqlite3": "github:WiseLibs/better-sqlite3#dbc2ea1165fef1f599b9be12faea33fa5e9d7ffb",
+        "better-sqlite3": "13.0.3",
         "chalk": "^4.1.0",
         "diff-match-patch": "^1.0.5",
         "fs-extra": "^11.1.0",
